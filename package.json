@@ -13,9 +13,6 @@
       "lint:watch": "npm run lint -- --watch",
       "share": "npm-run-all --parallel open:src localtunnel"
 
-
-
-
   },
   "author": "Cory House",
   "license": "MIT",
