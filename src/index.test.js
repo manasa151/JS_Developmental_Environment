@@ -1,6 +1,7 @@
 import {expect} from 'chai';
 import jsdom from 'jsdom';
 import fs from 'fs';
+import mocha from 'mocha';
 
 describe('Our first test', () => {
   it('should pass', () => {
